@@ -1,4 +1,4 @@
-# Minikube and Prometheus Sample Setup
+# Prometheus and Graphana Setup for Minikube
 
 This is a quick demo of using
 [minikube](https://github.com/kubernetes/minikube) to test
